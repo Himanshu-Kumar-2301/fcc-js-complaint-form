@@ -1,12 +1,12 @@
-# Project Title
+# Customer Complaint Form
 
-*An interactive storytelling app built with vanilla JavaScript.*
+A web page.
 
 ---
 
 ## 🚀 Live Demo
 
-[View Project](https://himanshu-kumar-2301.github.io/project-name/)
+[View Project](https://himanshu-kumar-2301.github.io/fcc-js-complaint-form/)
 
 ---
 
@@ -50,13 +50,13 @@ root/
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/Himanshu-Kumar-2301/project-name.git
+    git clone https://github.com/Himanshu-Kumar-2301/fcc-js-complaint-form.git
     ```
 
 2. Navigate into the folder
 
     ```bash
-    cd project-name
+    cd fcc-js-complaint-form
     ```
 
 3. Open ```index.html``` in your browser.
