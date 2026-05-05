@@ -1,6 +1,6 @@
 # Customer Complaint Form
 
-A web page.
+An interactive JavaScript web app that allows users to submit complaints through a structured form. This project demonstrates form validation, DOM manipulation, responsive design, and modular JavaScript logic.
 
 ---
 
@@ -26,9 +26,11 @@ A web page.
 
 ## 📚 Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- **Structured complaint form**: Collects user details, complaint type, and description.
+- **Form validation**: Ensures required fields are filled and input formats are correct.
+- **Interactive UI**: Provides instant feedback for invalid inputs.
+- **Responsive design**: Works seamlessly across desktop and mobile browsers.
+- **Modular JavaScript**: Clean separation of logic for readability and scalability.
 
 ---
 
@@ -63,8 +65,11 @@ root/
 
 ## 📌 Future Improvements
 
-- Add accessibility enhancements
-- Improve mobile responsiveness
-- Add more interactive features
+- Add persistent storage (localStorage or backend integration).
+- Improve accessibility with ARIA labels and keyboard navigation.
+- Add confirmation messages or email notifications.
+- Enhance mobile responsiveness with better layout adjustments.
 
 ## ℹ️ About
+
+This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **form handling, validation, and interactive UI design**. It serves as a practical example of building user‑friendly forms for real‑world applications.
